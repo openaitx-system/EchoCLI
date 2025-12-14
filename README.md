@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=Dragon863&project=EchoCLI&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 > [!IMPORTANT]
 > If you are looking to root your echo, this project is now obselete; please use the solution documented [here](https://xdaforums.com/t/unlock-root-twrp-unbrick-amazon-echo-dot-2nd-gen-2016-biscuit.4761416/) instead. Thank you so much to everyone who made this possible, it's been so fun to work on this project! :)
 
